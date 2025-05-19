@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=omni&section=header)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&theme=omni&section=footer)
 

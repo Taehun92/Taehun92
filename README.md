@@ -35,7 +35,7 @@
     </div>
     <div style="text-align: left;">
 	<h2>💡 Portfolio </h2>
-	    <div>😎<a style="font-size: 25px;" href="https://bit.ly/3K443HT">포트폴리오</a></div>
+	    <div>😎<a style="font-size: 25px;" href="https://www.notion.so/Taehun-Lee-215ed50499ec8096bc04d3766f0bf4f7">포트폴리오</a></div>
     </div>
     <div style="text-align: left;">
 	<h2>📝 Projects </h2>

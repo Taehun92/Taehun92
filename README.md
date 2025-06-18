@@ -31,7 +31,6 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
 	  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white">
 	  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white">
-   	  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">

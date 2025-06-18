@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff2698&section=header)
+![image](https://github.com/user-attachments/assets/5b84231b-7988-49b9-9595-2d91953f844b)![header](https://capsule-render.vercel.app/api?type=waving&color=ff2698&section=header)
 
 # 이태훈
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  <li> 저는 항상 성장하는 개발자를 희망합니다. 저는 배우는 것이 즐겁습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  
+	<li> 저는 항상 성장하는 개발자를 희망합니다. 저는 배우는 것이 즐겁습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -40,10 +40,9 @@
     </div>
     <div style="text-align: left;">
 	<h2>📝 Projects </h2>
-	    <div>🍔<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/FOOD114">FOOD114</a></div>
-	    <div>🥰<a style="font-size: 25px;" href="https://github.com/vvyejivv/wooki.git">WOOKI</a></div>
-	    <div>🏃‍♂️<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/miniProject1">Fitness Shop</a></div>
-	    <div>😄<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/sns_project.git">SNS SITE</a></div>
+	    <div>🛫<a style="font-size: 25px;" href="https://github.com/Taehun92/Project_Kapture">Kapture - Spring B2C 여행사 쇼핑몰 </a></div> 
+	    <div>🕯<a style="font-size: 25px;" href="https://github.com/Taehun92/Project_Remembert">Remember - React 개인 추모용 SNS </a></div> 
+	    <div>🍷<a style="font-size: 25px;" href="https://github.com/leejh8997/ARcohol">ARcohol - Flutter 칵테일 레시피 북 어플 </a></div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 

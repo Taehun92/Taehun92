@@ -27,7 +27,7 @@
 	    <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
 	    <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
           <br/>
-          <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
+          <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?&style=plastic&logo=apache%20tomcat&logoColor=black" />
           <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
 	  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white">
 	  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white">

@@ -9,7 +9,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
 	  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
-	  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+	  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
           <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white">
 	  <img src="https://img.shields.io/badge/JSP-007396?style=plastic&logo=java&logoColor=white">
 	    <br/>

@@ -51,8 +51,8 @@
     <img src="https://github-profile-trophy.vercel.app?username=Taehun92&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Taehun92&include_all_commits=false&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taehun92&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Taehun92&include_all_commits=false&bg_color=180,00000000,&title_color=000000&theme=dracula&text_color=000000"
+	/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taehun92&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
 
 

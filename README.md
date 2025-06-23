@@ -21,6 +21,7 @@
 	    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white">
 	    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white">
+	    <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=plastic&logo=tailwind%20css&logoColor=white" />
 	    <img src="https://img.shields.io/badge/Ajax-0095D5?style=plastic&logo=javascript&logoColor=white">
           <br/>
 	    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">

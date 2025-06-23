@@ -46,6 +46,10 @@
 	    <div>🕯<a style="font-size: 25px;" href="https://github.com/Taehun92/Project_Remembert">Remember - React 개인 추모용 SNS </a></div> 
 	    <div>🍷<a style="font-size: 25px;" href="https://github.com/leejh8997/ARcohol">ARcohol - Flutter 칵테일 레시피 북 어플 </a></div> 
     </div>
+    <div align="center">
+    <img src="https://streak-stats.demolab.com?user=Taehun92&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://github-profile-trophy.vercel.app?username=Taehun92&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Taehun92&include_all_commits=false&bg_color=180,00000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taehun92&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"

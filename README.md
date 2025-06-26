@@ -39,7 +39,7 @@
 
 * 🛫 [Kapture](https://github.com/Taehun92/Project_Kapture)  : 외국인 대상 맞춤형 여행사 B2C 쇼핑몰 (Spring 기반)
 * 🕯 [Remember](https://github.com/Taehun92/Project_Remember)  : React 기반 개인 추모용 SNS (SPA 구조 및 상태 관리)
-* 🍷 [ARcohol](https://github.com/leejh8997/ARcohol)  : Flutter 기반 칵테일 AR 레시피 앱 (OCR + Firestore 연동)
+* 🍷 [ARcohol](https://github.com/leejh8997/ARcohol)  : Flutter 기반 칵테일 AR 레시피 앱 (Firestore 연동)
 
 ---
 

@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=ff2698\&section=header)
 
-# 👋 이태훈 Taehun Lee
+# 이태훈
 
 > 끊임없이 배우고, 나누며 성장하는 개발자입니다.
 >

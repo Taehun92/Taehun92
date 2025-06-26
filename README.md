@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Tech Stack (세로형 테이블)
+## 🛠 Tech Stack
 
 | 분야                   | 기술                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,9 +37,9 @@
 
 ## 📝 Projects
 
-* 🛫 [Kapture](https://github.com/Taehun92/Project_Kapture): 외국인 대상 맞춤형 여행사 B2C 쇼핑몰 (Spring 기반)
-* 🕯 [Remember](https://github.com/Taehun92/Project_Remember): React 기반 개인 추모용 SNS (SPA 구조 및 상태 관리)
-* 🍷 [ARcohol](https://github.com/leejh8997/ARcohol): Flutter 기반 칵테일 AR 레시피 앱 (OCR + Firestore 연동)
+* 🛫 [Kapture](https://github.com/Taehun92/Project_Kapture)  : 외국인 대상 맞춤형 여행사 B2C 쇼핑몰 (Spring 기반)
+* 🕯 [Remember](https://github.com/Taehun92/Project_Remember)  : React 기반 개인 추모용 SNS (SPA 구조 및 상태 관리)
+* 🍷 [ARcohol](https://github.com/leejh8997/ARcohol)  : Flutter 기반 칵테일 AR 레시피 앱 (OCR + Firestore 연동)
 
 ---
 
@@ -47,10 +47,10 @@
 
 > 꾸준한 커밋과 다양한 기술 스택으로 성장 중입니다.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Taehun92\&theme=dracula)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Taehun92\&theme=dracula\&row=1\&column=5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Taehun92\&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taehun92\&layout=compact\&theme=dracula)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taehun92\&show_icons=true\&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taehun92\&layout=compact\&theme=dracula)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Taehun92\&theme=dracula\&row=1\&column=5)
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving\&color=ff2698\&section=footer)
